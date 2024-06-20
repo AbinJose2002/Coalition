@@ -4,7 +4,7 @@ Link
 
 export default function Diary() {
   return (
-    <div>
+    <div id='diary'>
         <h2 className="text-center py-4">Daily Diary</h2>
       <nav className="navbar navbar-expand-lg navbar-light">
 

@@ -29,7 +29,7 @@ function createData(
   
   export default function Score() {
     return (
-      <div className="container py-5 col-lg-6 col-sm-12 mx-auto">
+      <div className="container py-5 col-lg-6 col-sm-12 mx-auto" id='score'>
         <h1 className="py-5 text-center">Score Bord</h1>
         <TableContainer component={Paper}>
         <Table sx={{ minWidth: 650 }} aria-label="simple table">

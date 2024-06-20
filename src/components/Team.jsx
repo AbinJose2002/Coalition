@@ -4,7 +4,7 @@ import './Team.css'
 
 export default function Team() {
   return (
-    <div className='container bg-light team row mx-auto'>
+    <div className='container bg-light team row mx-auto' id='team'>
       <div className="col col-sm-12 col-lg-6">
         <div className="desc px-5 py-5">
             <h1 text-center>Meet The Team</h1>
