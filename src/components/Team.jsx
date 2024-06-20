@@ -13,6 +13,7 @@ export default function Team() {
                 <li className='py-3'>Abin Jose</li>
                 <li className='py-3'>Anna S Paul</li>
                 <li className='py-3'>Anjalikrishna</li>
+                <li className='py-3'>Ashil Krishna</li>
                 <li className='py-3'>Ashtami M</li>
                 <li className='py-3'>Harshitha</li>
             </ul>
