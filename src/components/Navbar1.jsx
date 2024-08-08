@@ -1,6 +1,6 @@
 import React from 'react'
 import './Navbar.css'
-import logo from '../assets/Notification Bell Badge Logo.png'
+import logo from '../assets/WhatsApp Image 2024-08-08 at 9.06.07 PM.jpeg'
 
 export default function Navbar1() {
   return (
