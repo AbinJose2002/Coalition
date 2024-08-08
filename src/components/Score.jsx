@@ -18,13 +18,13 @@ function createData(
   }
   
   const rows = [
-    createData('COALITION', 5000),
-    createData('COALITION', 5000),
-    createData('COALITION', 5000),
-    createData('COALITION', 5000),
-    createData('COALITION', 5000),
-    createData('COALITION', 5000),
-    createData('COALITION', 5000)
+    createData('PERFORMERS', 5000),
+    createData('PERFORMERS', 5000),
+    createData('PERFORMERS', 5000),
+    createData('PERFORMERS', 5000),
+    createData('PERFORMERS', 5000),
+    createData('PERFORMERS', 5000),
+    createData('PERFORMERS', 5000)
   ];
   
   export default function Score() {
